@@ -1,6 +1,6 @@
 #About
 
-Simple Prototype Learning Managment System Built to Learn about Themeing and Sub Themeing in Drupal 7
+Simple Prototype Learning Management System Built to Learn about Theming and Sub Theming in Drupal 7
 
 # Instructions:
 
@@ -27,3 +27,14 @@ Simple Prototype Learning Managment System Built to Learn about Themeing and Sub
   c. Use the same username and password from before. (If we have forgotten what that was, we can always find that information in settings.php, or in the PDO Exception error message we saw displayed in the browser.)
 
   d. After importing the database, if you have any trouble logging in with your Site Maintenance account, clear your browser's cookies by clearing the browser history.
+
+#User Stories
+
+#Project Instructions
+
+#What I Learned from this Project
+  A. Learned how to create custom themes from scratch in drupal
+  B. Learned how to alter existing themes by creating sub themes in drupal
+
+
+#To Do

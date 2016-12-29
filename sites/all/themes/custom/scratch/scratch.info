@@ -1,0 +1,7 @@
+name = Scratch
+description = A custom template made following one extra pixel tutorial
+core = 7.x
+stylesheets[all][] = CSS/style.css
+regions[user_menu] = User Menu
+regions[main_menu] = Main Menu
+regions[content] = Content
