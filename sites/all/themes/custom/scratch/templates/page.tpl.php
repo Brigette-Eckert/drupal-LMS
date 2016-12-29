@@ -42,4 +42,9 @@
   </div>
 
 
-<?php print render($page['content']);?>
+<div class="scratch-footer">
+  <hr />
+  <div class="scratch-footer-text">
+    &copy; 2013 scratch. All rights reserved.
+  </div>
+</div>

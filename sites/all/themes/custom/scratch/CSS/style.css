@@ -83,3 +83,13 @@ body {
   #breadcrumb {
     margin-top: 15px;
   }
+
+
+/*Footer*/
+.scratch-footer{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #4d4d4d;
+  text-align: center;
+}
