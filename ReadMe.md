@@ -31,6 +31,17 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 #User Stories
 
 #Project Instructions
+1.  Build a Zen subtheme
+
+2. Build a Garland subtheme
+
+3. Build a subtheme for a theme of your choice
+
+4. Include some jQuery in at least one of the above projects
+
+5. Make a subtheme of a subtheme
+
+6. Try themeing Zen Grids and Sass
 
 #What I Learned from this Project
   A. Learned how to create custom themes from scratch in drupal
@@ -38,3 +49,6 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 
 
 #To Do
+ A. Add relationships between users, ie students to parents, teachers etc
+ B.  Add assignments and gradebooks
+ 
