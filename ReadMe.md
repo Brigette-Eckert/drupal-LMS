@@ -35,7 +35,7 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 
 2. Build a Garland subtheme
 
-3. Build a subtheme for a theme of your choice
+3. Build a subtheme using a base theme of your choice
 
 4. Include some jQuery in at least one of the above projects
 
@@ -51,4 +51,3 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 #To Do
  A. Add relationships between users, ie students to parents, teachers etc
  B.  Add assignments and gradebooks
- 

@@ -1,0 +1,17 @@
+body {
+  background-color: #6bb1bf;
+  font-style: italic;
+  color: #f2f2c6;
+}
+
+/*Header*/
+header {
+  width: 100%;
+  background-color: #303133;
+  color: white;
+}
+
+.header a:link {color: white; text-decoration: none;}
+.header a:visited {color: white;text-decoration: none;}
+.header a:hover {color: white; text-decoration: underline;}
+.header a:active{color: white;text-decoration: none;}

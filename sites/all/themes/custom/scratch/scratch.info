@@ -1,4 +1,5 @@
 name = Scratch
+screenshot  = screenshot.png
 description = A custom template made following one extra pixel tutorial
 core = 7.x
 stylesheets[all][] = CSS/style.css
