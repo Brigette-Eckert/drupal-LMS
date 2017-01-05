@@ -2,46 +2,23 @@
 
 Simple Prototype Learning Management System Built to Learn about Theming and Sub Theming in Drupal 7
 
-# Instructions:
 
-1. Download Drupal version 7.51
-
-2. Replace the sites folder with the enclosed sites folder
-
-3. Import the Database Dump
-
-  a. Open phpMyAdmin and click on the "Import" tab.
-
-  b. Leave all the default settings and make sure the character set is "utf-8"
-
-  c. Now click on the "Choose File" button next to "Browse your computer" and select the .sql.zip file we included in our sites/db-backup folder. It's okay to leave it zipped.
-
-  d. Then click the "Go" button on the bottom left.
-
-4. Create the Database User (not needed if using Acquia Dev Desktop)
-
-  a. Lastly, we must recreate the database username/password that Drupal uses to store things in the database. We do this the same way we did when we created the database.
-
-  b. After importing the .sql.zip file, select the "Privileges" tab and click on "Add User".
-
-  c. Use the same username and password from before. (If we have forgotten what that was, we can always find that information in settings.php, or in the PDO Exception error message we saw displayed in the browser.)
-
-  d. After importing the database, if you have any trouble logging in with your Site Maintenance account, clear your browser's cookies by clearing the browser history.
-
-#User Stories
 
 #Project Instructions
 1.  Build a Zen subtheme
-
+    a. Add a stylesheet to your sub-theme and add style rules to change the fonts, the background color or the text color used by at least 3 elements on your homepage. 
+    b. Add a region to your sub-theme
+    c. Then add and enable a block in your region for it to display. You can do this using the Block Administration page in the Drupal interface. A region won't show up unless it has a block in it. 
+    d. Then play around with styling your region using your .css file. Remember, you can figure out what classes Drupal has assigned your region and block by right clicking on it in Chrome and selecting "Inspect Element".
+    
 2. Build a Garland subtheme
-
+    
 3. Build a subtheme using a base theme of your choice
 
 4. Include some jQuery in at least one of the above projects
 
 5. Make a subtheme of a subtheme
 
-6. Try themeing Zen Grids and Sass
 
 #What I Learned from this Project
   A. Learned how to create custom themes from scratch in drupal
@@ -49,5 +26,5 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 
 
 #To Do
- A. Add relationships between users, ie students to parents, teachers etc
- B.  Add assignments and gradebooks
+ A. Add relationships between users, ie students to parents, teachers etc, using entity refrence
+ B.  Add assignments and grade books
