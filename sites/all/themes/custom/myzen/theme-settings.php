@@ -18,7 +18,7 @@ function myzenform_system_theme_settings_alter(&$form, &$form_state, $form_id = 
   /* -- Delete this line if you want to use this setting
   $form['STARTERKIT_example'] = array(
   '#type'          => 'checkbox',
-  '#title'         => t('STARTERKIT sample setting'),
+  '#title'         => t('my_gratis sample setting'),
   '#default_value' => theme_get_setting('STARTERKIT_example'),
   '#description'   => t("This example option doesn't do anything."),
   );
