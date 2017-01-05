@@ -22,13 +22,13 @@ $info = array(
         'text' => '#494949',
       ),
     ),
-    'ash' => array(
-      'title' => t('Ash'),
+    'hopespeak' => array(
+      'title' => t('Hopes Peak'),
       'colors' => array(
-        'base' => '#464849',
-        'link' => '#2f416f',
-        'top' => '#2a2b2d',
-        'bottom' => '#5d6779',
+        'base' => '#000',
+        'link' => '#DD0B86',
+        'top' => '#474B4E',
+        'bottom' => '#000',
       ),
     ),
     'aquamarine' => array(

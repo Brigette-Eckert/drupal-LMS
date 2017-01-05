@@ -29,3 +29,4 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 #To Do
  A. Add relationships between users, ie students to parents, teachers etc, using entity refrence
  B.  Add assignments and grade books
+ C. Fix bug with Garland Sub theme, so users can use Garland's color wheel feature
