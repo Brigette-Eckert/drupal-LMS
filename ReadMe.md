@@ -23,6 +23,7 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 #What I Learned from this Project
   A. Learned how to create custom themes from scratch in drupal
   B. Learned how to alter existing themes by creating sub themes in drupal
+  C. Learned about rendering regions in drupal
 
 
 #To Do
