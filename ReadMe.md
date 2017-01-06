@@ -15,10 +15,6 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
     
 3. Build a subtheme using a base theme of your choice
 
-4. Include some jQuery in at least one of the above projects
-
-5. Make a subtheme of a subtheme
-
 
 #What I Learned from this Project
     A. Learned how to create custom themes from scratch in drupal
