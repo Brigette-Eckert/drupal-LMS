@@ -21,12 +21,12 @@ Simple Prototype Learning Management System Built to Learn about Theming and Sub
 
 
 #What I Learned from this Project
-  A. Learned how to create custom themes from scratch in drupal
-  B. Learned how to alter existing themes by creating sub themes in drupal
-  C. Learned about rendering regions in drupal
+    A. Learned how to create custom themes from scratch in drupal
+    B. Learned how to alter existing themes by creating sub themes in drupal
+    C. Learned about rendering regions in drupal
 
 
 #To Do
- A. Add relationships between users, ie students to parents, teachers etc, using entity refrence
- B.  Add assignments and grade books
- C. Fix bug with Garland Sub theme, so users can use Garland's color wheel feature
+    A. Add relationships between users, ie students to parents, teachers etc, using entity refrence
+    B.  Add assignments and grade books
+    C. Fix bug with Garland Sub theme, so users can use Garland's color wheel feature
